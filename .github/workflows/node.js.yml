@@ -27,4 +27,5 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - run: cd proj1
+    - run: npm install vuetify
     - run: npm run build
