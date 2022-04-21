@@ -1,4 +1,4 @@
-# vuetify
+# vuelab6
 
 ## Project setup
 ```
